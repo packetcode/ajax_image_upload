@@ -1,0 +1,18 @@
+
+/** APP: Ajax Image uploader with progress bar
+    Website:packetcode.com
+    Author: Krishna TEja G S
+    Date: 29th April 2014
+***/
+
+body{
+	background:#ecf0f1;
+}
+
+.container-main{
+	width:500px;
+	margin:40px auto;
+	padding:20px;
+	background:white;
+	border-radius: 5px;
+}
