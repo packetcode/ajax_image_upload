@@ -6,7 +6,7 @@
 ***/
 
 // an array of allowed extensions
-$allowedExts = array("gif", "jpeg", "jpg", "png");
+$allowedExts = array("gif", "jpeg", "jpg", "png","GIF","JPEG","JPG","PNG");
 $temp = explode(".", $_FILES["file"]["name"]);
 $extension = end($temp);
 
